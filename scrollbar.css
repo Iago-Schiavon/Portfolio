@@ -1,5 +1,5 @@
 ::-webkit-scrollbar {
-    width: 10px;
+    width: 12px;
 }
 
 
@@ -13,5 +13,5 @@
 /* Handle */
 
  ::-webkit-scrollbar-thumb {
-    background: rgb(0, 250, 12);
+    background:rgb(0, 200, 10);
 }

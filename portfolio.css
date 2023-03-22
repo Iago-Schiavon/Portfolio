@@ -30,7 +30,7 @@ li {
 }
 
 li a {
-    color: rgb(0, 250, 12);
+    color: rgb(0, 200, 10);
     font-weight: bold;
     font-size: 1.5em;
     margin-left: 150px;
@@ -126,7 +126,7 @@ span {
 .Box a {
     font-weight: bold;
     font-size: 1.5em;
-    color: rgb(0, 250, 12);
+    color: rgb(0, 200, 10);
     text-decoration: none;
 }
 
@@ -165,14 +165,6 @@ span {
     width: 100%;
 }
 
-.w {
-    margin-left: 130px;
-}
-
-.h {
-    margin-left: 30px;
-}
-
 ::-webkit-scrollbar-thumb {
     background-color: black;
 }
@@ -198,7 +190,7 @@ ul {
 
 .az a {
     font-weight: bold;
-    color: rgb(0, 250, 12);
+    color: rgb(0, 200, 10);
     text-decoration: none;
 }
 
@@ -218,9 +210,9 @@ ul {
 }
 
 .what {
-    width: 80px;
+    width: 60px;
     border-radius: 20%;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .x {
@@ -237,7 +229,7 @@ ul {
 .p a {
     font-weight: bold;
     font-size: 1.1em;
-    color: rgb(0, 250, 12);
+    color: rgb(0, 200, 10);
 }
 
 .p a:hover {
@@ -256,10 +248,26 @@ ul {
 .img2 {
     height: 150px;
     width: 150px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.h {
+    margin-left: 30px;
 }
 
 .y {
     margin-top: 20px;
 }
 
+.hover img:hover {
+    width: 90px;
+    border-radius: 20%;
+    transition: 2s;
+}
+
 /*    margin-right: 850px;
+
+.w {
+    margin-left: 130px;
+}
