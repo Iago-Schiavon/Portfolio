@@ -267,7 +267,7 @@ ul {
 }
 
 .hover img:hover {
-    width: 90px;
+    width: 30px;
     border-radius: 20%;
     transition: 2s;
 }
