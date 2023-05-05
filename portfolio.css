@@ -205,7 +205,7 @@ ul {
 
 .az a:hover {
     font-weight: bold;
-    color: rgb(247, 140, 0);
+    color: #f78c00;
     text-decoration: none;
 }
 
@@ -254,7 +254,8 @@ ul {
 }
 
 .hover img:hover {
-    width: 80px;
+    background: #f78c00; 
+    box-shadow: 0 0 20px #f78c00;
     border-radius: 20%;
     transition: 2s;
 }
