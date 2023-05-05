@@ -253,7 +253,7 @@ ul {
 .box1 img {
     width: 60px;
     border-radius: 20%;
-    margin: auto;
+    margin: 50px;
 }
 
 .box1 img:hover {
