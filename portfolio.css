@@ -244,17 +244,23 @@ ul {
 }
 
 .box1 {
-    margin-top: 20px;
+    margin-top: 60px;
+    margin-bottom: 50px;
     width: 1350px;
     height: 100px;
-    background-color: rgb(158, 40, 40);
+    background-color: rgb(26, 26, 26);
     box-sizing: border-box;
     text-align: center;
 }
 
-.what {
+.box div{
+    margin: auto;
+}
+
+.box img {
     width: 60px;
     border-radius: 20%;
+    margin: auto;
 }
 
 .hover img:hover {
