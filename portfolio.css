@@ -236,18 +236,28 @@ ul {
 
 .img1 {
     margin-top: 100px;
-}
-
-.x {
-    margin-top: 135px;
-    margin-left: 60px;
-    margin-right: 60px;
-    margin-bottom: 20px;
-}
-
-.z {
-    margin-bottom: 20px;
 }*/
+
+.img2 {
+    height: 100px;
+    width: 150px;
+}
+
+.y {
+    margin-top: 20px;
+}
+
+.what {
+    width: 60px;
+    border-radius: 20%;
+    margin-top: 30px;
+}
+
+.hover img:hover {
+    width: 30px;
+    border-radius: 20%;
+    transition: 2s;
+}
 
 .p a {
     font-weight: bold;
@@ -266,25 +276,4 @@ ul {
     font-size: 1.1em;
     margin-top: 40px;
     text-align: center;
-}
-
-.img2 {
-    height: 150px;
-    width: 150px;
-}
-
-.y {
-    margin-top: 20px;
-}
-
-.what {
-    width: 60px;
-    border-radius: 20%;
-    margin-top: 30px;
-}
-
-.hover img:hover {
-    width: 30px;
-    border-radius: 20%;
-    transition: 2s;
 }
