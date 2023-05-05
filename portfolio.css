@@ -146,8 +146,10 @@ span {
     margin-top: 10px;
     margin-bottom: 10px;
     word-wrap: break-word;
-    font-size: 1.1em;
+    font-size: 1.2em;
     font-style: bold;
+    color: white;
+    text-decoration: none;
 }
 
 #Contato {
