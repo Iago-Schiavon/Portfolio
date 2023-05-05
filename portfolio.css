@@ -246,14 +246,9 @@ ul {
     text-align: center;
 }
 
-.box1 div{
-    margin: auto;
-}
-
 .box1 img {
     width: 60px;
     border-radius: 20%;
-    margin-left: 30px;
 }
 
 .box1 img:hover {
@@ -269,6 +264,7 @@ ul {
     text-align: center;
     overflow: visible;
     width: 100%;
+    margin: auto;
 }
 
 .p a {
