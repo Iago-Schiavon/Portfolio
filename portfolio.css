@@ -148,6 +148,7 @@ span {
     word-wrap: break-word;
     font-style: bold;
     font-size: 1.1em;
+    max-width: 150px;
     color: white;
     text-decoration: none;
 }
