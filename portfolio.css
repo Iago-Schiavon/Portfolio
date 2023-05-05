@@ -27,6 +27,8 @@ header {
 li {
     list-style: none;
     background-color: rgb(26, 26, 26);
+    margin: auto;
+    text-align: center;
 }
 
 li a {
