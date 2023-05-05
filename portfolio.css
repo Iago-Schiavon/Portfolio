@@ -151,7 +151,7 @@ span {
     text-decoration: none;
 }
 
-#Contato {
+/*#Contato {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
     margin-top: 10px;
@@ -172,7 +172,7 @@ span {
     text-align: center;
     overflow: visible;
     width: 100%;
-}
+}*/
 
 ::-webkit-scrollbar-thumb {
     background-color: black;
