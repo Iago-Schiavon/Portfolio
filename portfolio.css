@@ -212,6 +212,17 @@ ul {
     text-decoration: none;
 }
 
+.box {
+    margin-top: 50px;
+    margin-bottom: 65px;
+    width: 160px;
+    height: 160px;
+    background-color: rgb(26, 26, 26);
+    box-sizing: border-box;
+    text-align: center;
+}
+
+
 .img {
     margin-top: 100px;
     margin-left: 240px;
