@@ -210,11 +210,11 @@ ul {
 }
 
 .box {
-    margin-top: 50px;
+    margin-top: 60px;
     margin-bottom: 50px;
-    width: 1050px;
-    height: 110px;
-    background-color: rgb(255, 255, 255);
+    width: 1350px;
+    height: 100px;
+    background-color: rgb(26, 26, 26);
     box-sizing: border-box;
     text-align: center;
 }
@@ -241,10 +241,6 @@ ul {
     height: 100px;
     width: 150px;
     margin: 50px;
-}
-
-.y {
-    margin-top: 20px;
 }
 
 .what {
