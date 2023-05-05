@@ -165,14 +165,7 @@ span {
 #Contato a:hover {
     color: rgb(247, 140, 0);
 }
-
-.contato {
-    display: flex;
-    transition: top 0.3s;
-    text-align: center;
-    overflow: visible;
-    width: 100%;
-}*/
+*/
 
 ::-webkit-scrollbar-thumb {
     background-color: black;
@@ -263,11 +256,19 @@ ul {
     margin: auto;
 }
 
-.hover img:hover {
+.box1 img:hover {
     background: white; 
     box-shadow: 0 0 40px white;
     border-radius: 20%;
     transition: 2s;
+}
+
+.box1 ul{
+    display: flex;
+    transition: top 0.3s;
+    text-align: center;
+    overflow: visible;
+    width: 100%;
 }
 
 .p a {
