@@ -33,9 +33,6 @@ li a {
     color: rgb(0, 200, 10);
     font-weight: bold;
     font-size: 1.5em;
-    margin-left: 150px;
-    margin-right: 150px;
-    margin-top: 10px;
 }
 
 a:hover {
