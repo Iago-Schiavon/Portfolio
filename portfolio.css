@@ -239,7 +239,7 @@ ul {
 .box1 {
     margin-top: 60px;
     margin-bottom: 30px;
-    width: 1200px;
+    width: 900px;
     height: 100px;
     background-color: rgb(247, 9, 9);
     box-sizing: border-box;
@@ -249,6 +249,7 @@ ul {
 .box1 img {
     width: 60px;
     border-radius: 20%;
+    margin-left: 15px;
 }
 
 .box1 img:hover {
@@ -264,7 +265,6 @@ ul {
     text-align: center;
     overflow: visible;
     width: 100%;
-    margin: auto;
 }
 
 .p a {
