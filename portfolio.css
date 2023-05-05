@@ -213,7 +213,7 @@ ul {
     margin-top: 50px;
     margin-bottom: 50px;
     width: 500px;
-    height: 500px;
+    height: 200px;
     background-color: rgb(26, 26, 26);
     box-sizing: border-box;
     text-align: center;
@@ -226,7 +226,6 @@ ul {
 .box img {
     width: 150px;
     height: 100px;
-    border-radius: 25%;
     margin: auto;
 }
 
