@@ -212,8 +212,8 @@ ul {
 .box {
     margin-top: 50px;
     margin-bottom: 50px;
-    width: 160px;
-    height: 160px;
+    width: 500px;
+    height: 500px;
     background-color: rgb(26, 26, 26);
     box-sizing: border-box;
     text-align: center;
