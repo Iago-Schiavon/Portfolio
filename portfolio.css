@@ -24,11 +24,18 @@ header {
     margin-bottom: 10px;
 }
 
+.navbar .navbar-nav {
+ display: inline-block;
+ float: none !important;
+}
+    
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
 li {
     list-style: none;
     background-color: rgb(26, 26, 26);
-    margin: auto;
-    text-align: center;
 }
 
 li a {
