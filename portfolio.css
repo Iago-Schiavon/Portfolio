@@ -24,10 +24,14 @@ header {
     margin-bottom: 10px;
 }
 
+.navbar {
+    margin: auto;
+    width: 2000px;
+}
+
 .navbar .navbar-nav {
  display: inline-block;
  float: none !important;
- margin: auto;
 }
     
 .navbar .navbar-collapse {
