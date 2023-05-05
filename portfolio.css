@@ -248,13 +248,13 @@ ul {
 }
 
 .what {
-    width: 60px;
+    width: 30px;
     border-radius: 20%;
     margin-top: 30px;
 }
 
 .hover img:hover {
-    width: 30px;
+    width: 60px;
     border-radius: 20%;
     transition: 2s;
 }
