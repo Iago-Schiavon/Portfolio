@@ -146,9 +146,8 @@ span {
     margin-top: 10px;
     margin-bottom: 10px;
     word-wrap: break-word;
-    font-style: bold;
+    font-weight: bold;
     font-size: 1.1em;
-    
     color: white;
     text-decoration: none;
 }
