@@ -129,7 +129,7 @@ span {
     transition: 2s;
 }
 
-.Box a {
+/*.Box a {
     font-weight: bold;
     font-size: 1.5em;
     color: rgb(0, 200, 10);
@@ -140,12 +140,13 @@ span {
     font-weight: bold;
     color: rgb(247, 140, 0);
     text-decoration: none;
-}
+}*/
 
 .text-box {
     margin-top: 10px;
     margin-bottom: 10px;
     word-wrap: break-word;
+    font-size: 1.3em;
 }
 
 #Contato {
