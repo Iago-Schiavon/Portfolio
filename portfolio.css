@@ -243,6 +243,15 @@ ul {
     margin: 50px;
 }
 
+.box1 {
+    margin-top: 20px;
+    width: 1350px;
+    height: 100px;
+    background-color: rgb(158, 40, 40);
+    box-sizing: border-box;
+    text-align: center;
+}
+
 .what {
     width: 60px;
     border-radius: 20%;
