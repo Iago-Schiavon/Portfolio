@@ -205,7 +205,7 @@ ul {
 .box {
     margin-top: 70px;
     margin-bottom: 50px;
-    width: 1350px;
+    width: 150px;
     height: 100px;
     background-color: rgb(26, 26, 26);
     box-sizing: border-box;
@@ -239,8 +239,8 @@ ul {
 .box1 {
     margin-top: 60px;
     margin-bottom: 30px;
-    width: 900px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     background-color: rgb(247, 9, 9);
     box-sizing: border-box;
     text-align: center;
@@ -249,7 +249,6 @@ ul {
 .box1 img {
     width: 60px;
     border-radius: 20%;
-    margin-left: 15px;
 }
 
 .box1 img:hover {
