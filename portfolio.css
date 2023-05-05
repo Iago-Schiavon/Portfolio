@@ -229,19 +229,18 @@ ul {
     margin: auto;
 }
 
-/*.img {
-    margin-top: 100px;
-    margin-left: 240px;
+.img {
+    margin: 50px;
 }
 
 .img1 {
-    margin-top: 100px;
-}*/
+    margin: 50px;
+}
 
 .img2 {
     height: 100px;
     width: 150px;
-    margin: auto;
+    margin: 50px;
 }
 
 .y {
