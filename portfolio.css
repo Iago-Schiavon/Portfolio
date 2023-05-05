@@ -219,6 +219,10 @@ ul {
     text-align: center;
 }
 
+.box div{
+    margin: auto;
+}
+
 .box img {
     width: 95%;
     border-radius: 25%;
@@ -267,8 +271,6 @@ ul {
 .img2 {
     height: 150px;
     width: 150px;
-    margin-left: 10px;
-    margin-right: 10px;
 }
 
 .y {
@@ -285,10 +287,4 @@ ul {
     width: 30px;
     border-radius: 20%;
     transition: 2s;
-}
-
-/*    margin-right: 850px;
-
-.w {
-    margin-left: 130px;
 }
