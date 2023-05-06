@@ -14,8 +14,20 @@
     <header id="Top">
         <h1 align="center">Iago Schiavon</h1>
     </header>
-<!-- Navbar -->    
-    <nav class="navbar-expand-lg" id="navbar">
+<!-- Navbar -->   
+    <div class="sticky">
+        <ul class="topnav">
+            <li class="w3-left dropdown"><a href="#Top" class="dropbtn">Início</a>
+             <div class="dropdown-content">
+                <a href="#Info">Info</a>
+                <a href="#Skills">Habilidades</a>
+                <a href="#Conteudo">Conteúdo</a>
+             </div>
+            </li>
+            <li class="w3-right"><a href="#Social">Social</a></li>
+        </ul>  
+    </div> 
+    <!--<nav class="navbar-expand-lg" id="navbar">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" id="button">
            <i class="fas fa-bars"></i>
         </button>
@@ -32,7 +44,7 @@
                 </li>
             </ul>
         </div>
-    </nav>
+    </nav>-->
 
     <div class="container">
         <div id="Info" class="row">
@@ -112,7 +124,7 @@
     </div>            
 <!-- Social -->
     <div class="container">
-        <div class="row">
+        <div id="Social" class="row">
             <div class="box1 col-md-2">
                 <a href="https://github.com/Iago-Schiavon"><img src="github.png" alt=""></a>
             </div>
@@ -137,7 +149,7 @@
     <div class="container">
         <div class="p row">
             <div class="col-md-4">
-                <p><a href="#Top">Voltar para o topo</a></p>
+                <p><a class="w3-left" href="#Top">Voltar para o topo</a></p>
             </div>
             <div class="col-md-4">
                 <p>Copyright © 2023 Iago Schiavon</p>     
