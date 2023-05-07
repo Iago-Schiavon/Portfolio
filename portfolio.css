@@ -185,7 +185,7 @@ span {
 }
 
 .Box img:hover {
-    width: 55%;
+    width: 50%;
     border-radius: 20%;
     transition: 2s;
 }
