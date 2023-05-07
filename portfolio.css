@@ -102,7 +102,7 @@ a:hover {
 }
 
 .d {
-    margin-bottom: 25px;
+    margin-bottom: 15px;
 }
 
 .e {
@@ -112,7 +112,7 @@ a:hover {
 .Box1 {
     margin-top: 50px;
     margin-bottom: 60px;
-    width: 300px;
+    width: 350px;
     height: 200px;
     background-color: rgb(26, 26, 26);
     box-sizing: border-box;
