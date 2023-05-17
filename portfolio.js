@@ -1,3 +1,4 @@
+/*
 window.onscroll = function() { myFunction() };
 
 var navbar = document.getElementById("navbar");
@@ -11,7 +12,7 @@ function myFunction() {
         navbar.classList.remove("sticky");
     }
 }
-
+*/
 // Get the modal
 var modal = document.getElementById("myModal");
 
