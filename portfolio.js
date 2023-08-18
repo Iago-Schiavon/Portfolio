@@ -17,8 +17,8 @@ var span = document.getElementsByClassName("close")[0];
 // When the user clicks on <span> (x), close the modal
 span.onclick = function() {
   modal.style.display = "none";
-}
-/* window.onscroll = function() { myFunction() };
+}*/
+ window.onscroll = function() { myFunction() };
 
 var navbar = document.getElementById("navbar");
 
@@ -30,8 +30,8 @@ function myFunction() {
     } else {
         navbar.classList.remove("sticky");
     }
-} */
-
+} 
+/*
 // When the user scrolls down 20px from the top of the document, slide down the navbar
 window.onscroll = function() {scrollFunction()};
 
@@ -41,4 +41,4 @@ function scrollFunction() {
   } else {
     document.getElementById("navbar").style.top = "-50px";
   }
-}
+}*/
