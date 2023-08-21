@@ -7,6 +7,16 @@ div {
     padding: 0px;
 }
 
+.anime{
+    opacity: 0;
+    transform: translate3d(-100px,-150px,0);
+    transition: .3s;
+}
+.anime-start{
+    opacity: 1;
+    transform: translate3d(0,0,0);
+}
+
 body {
     background-color: rgb(26, 26, 26);
     color: white;
