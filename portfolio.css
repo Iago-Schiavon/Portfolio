@@ -474,8 +474,8 @@ span {
 #Social
 
 .box1 {
-    margin-top: 40px;
-    margin-bottom: 25px;
+    margin-top: 80px;
+    margin-bottom: 40px;
     width: 60px;
     height: 60px;
     background-color: rgb(20, 20, 20);
@@ -521,6 +521,11 @@ span {
     margin-top: 75px;
     margin-bottom: 35px;
     text-align: center;
+}
+
+.row p{
+    font-size: 1.2em;
+    font-weight: bold;
 }
 
 .w3-left{float:left!important}
