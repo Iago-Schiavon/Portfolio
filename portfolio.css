@@ -26,29 +26,28 @@ header {
 }
 
 #navbar {
-    background-color: #333;
+    background-color: rgb(26, 26, 26);
     position: fixed;
     width: 100%;
     height: 50px;
     display: flex;
-    transition: top 0.3s;
+    transition: top 0.1s;
     overflow: hidden;
 }
   
 #navbar a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: rgb(0, 200, 10);
     text-align: center;
     padding: 12px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 1.2em;
     width: 25%; /* Four links of equal widths */
 }
-  
+
 #navbar a:hover {
-    background-color: #ddd;
-    color: black;
+    color: rgb(247, 140, 0);
 }
   
 @media screen and (max-width: 500px) {
@@ -58,6 +57,28 @@ header {
       width: 100%;
       text-align: left;
     }
+}
+
+/* Page content */
+.content {
+    padding: 16px;
+}
+  
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+    position: fixed;
+    z-index: 1;
+    top: 0px;
+    width: 100%;
+}
+  
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+    padding-top: 10px;
+}
+
+ul{
+    margin-block-start: 0px;
 }
 
 /*ul.topnav {
@@ -379,25 +400,6 @@ span {
 
 ::-webkit-scrollbar-thumb {
     background-color: black;
-}
-
-.content {
-    padding: 16px;
-}
-
-.sticky {
-    position: fixed;
-    z-index: 1;
-    top: 0px;
-    width: 100%;
-}
-
-.sticky+.content {
-    padding-top: 10px;
-}
-
-ul {
-    margin-block-start: 0px;
 }
 
 .az a {
