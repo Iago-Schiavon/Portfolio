@@ -31,7 +31,6 @@ header {
     display: flex;
     transition: top 0.1s;
     overflow: hidden;
-    margin-top: 130px;
 }
   
 #navbar a {
