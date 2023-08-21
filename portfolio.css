@@ -18,7 +18,7 @@ div {
 }
 
 body {
-    background-color: rgb(26, 26, 26);
+    background-color: rgb(20, 20, 20);
     color: white;
     height: 100%;
     margin: 0;
@@ -30,7 +30,7 @@ body {
 }
 
 header {
-    background-color: rgb(26, 26, 26);
+    background-color: rgb(20, 20, 20);
     text-align: center;
     padding: 30px;
     margin-top: 20px;
@@ -38,7 +38,7 @@ header {
 }
 
 #navbar {
-    background-color: rgb(26, 26, 26);
+    background-color: rgb(20, 20, 20);
     height: 80px;
     display: flex;
     transition: top 0.1s;
@@ -52,7 +52,7 @@ header {
     text-align: center;
     padding: 12px;
     text-decoration: none;
-    font-size: 1.3em;
+    font-size: 1.4em;
     font-weight: bold;
     width: 25%; /* Four links of equal widths */
 }
@@ -276,7 +276,7 @@ ul.topnav li a:hover {
 /* */
 li {
     list-style: none;
-    background-color: rgb(26, 26, 26);
+    background-color: rgb(20, 20, 20);
 }
 
 li a {
@@ -307,7 +307,7 @@ a:hover {
     margin-bottom: 60px;
     width: 350px;
     height: 200px;
-    background-color: rgb(26, 26, 26);
+    background-color: rgb(20, 20, 20);
     box-sizing: border-box;
     text-align: center;
 }
@@ -315,7 +315,7 @@ a:hover {
 .Box1 img {
     width: 80%;
     border-radius: 30%;
-    border: 1px solid rgb(26, 26, 26);
+    border: 1px solid rgb(20, 20, 20);
     margin: auto;
 }
 
@@ -366,7 +366,7 @@ span {
     margin-bottom: 60px;
     width: 160px;
     height: 160px;
-    background-color: rgb(26, 26, 26);
+    background-color: rgb(20, 20, 20);
     box-sizing: border-box;
     text-align: center;
 }
@@ -478,7 +478,7 @@ span {
     margin-bottom: 25px;
     width: 60px;
     height: 60px;
-    background-color: rgb(26, 26, 26);
+    background-color: rgb(20, 20, 20);
     box-sizing: border-box;
     text-align: center;
 }
