@@ -97,8 +97,8 @@ ul{
   background: url("../Img/logo.png") 0px 0px;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 70%;
-  padding: 280px;
+  background-size: 65%;
+  padding: 300px;
   position: relative;
   animation-name:intro;
   animation-duration: 5s;
