@@ -97,7 +97,7 @@ ul{
   background: url("../Img/logo.gif") 0px 0px;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 80%;
+  background-size: 100%;
   padding: 350px;
   position: relative;
   animation-name:intro;
