@@ -34,7 +34,7 @@ header {
     text-align: center;
     padding: 30px;
     margin-top: 20px;
-    margin-bottom: 60px;
+    margin-bottom: 70px;
 }
 
 #navbar {
@@ -204,7 +204,7 @@ a:hover {
 }
 
 #Info {
-    margin-top: 160px;
+    margin-top: 170px;
     margin-bottom: 50px;
     align-items: center;
 }
